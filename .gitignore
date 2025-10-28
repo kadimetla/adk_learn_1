@@ -9,8 +9,6 @@ wheels/
 # Virtual environments
 .venv
 
-.env
-
-uv.lock
+learn_1/.env
 
 .idea/
